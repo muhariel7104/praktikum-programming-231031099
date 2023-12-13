@@ -1,4 +1,4 @@
 #Praktikum Pengantar Pemrograman
 
-*praktikum 1 : pengantar variabel 
+*praktikum 1 : pengenalan variabel 
 `praktikum-d1.py`
